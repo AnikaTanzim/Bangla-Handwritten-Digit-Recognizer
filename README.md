@@ -1,6 +1,6 @@
 # Bangla-Handwritten-Digit-Recognizer
 
-There is a proposed model for Bangla handwritten digit recognition. Images of handwritten digits are taken as input. Logistic Regression and Deep Neural Network are used and making comparison of them, we can see Deep Neural Network Model gives better accuracy. We have used NumtaDB as dataset.
+Applying **logistic regression** and **Deep Neural network** for the **NumtaDB** dataset and build a multiclass classification model that can recognize `[0-9]` Bengali handwritten digits with different hyperparameter settings, we can see that Deep Neural Network Model gives better accuracy.
 
 **Dataset Link:** https://www.kaggle.com/BengaliAI/numta/
 
